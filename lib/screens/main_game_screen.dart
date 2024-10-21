@@ -171,7 +171,7 @@ class MainGameScreen extends StatelessWidget {
                                     ),
                                     PlayerInfo(
                                       position: 'right',
-                                      name: 'Player1(You)',
+                                      name: 'Player2',
                                       gameCount: controller.secondGameCount,
                                       winCount: controller.secondWinCount,
                                     ),
